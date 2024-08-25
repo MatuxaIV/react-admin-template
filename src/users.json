@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "fullName": "Admin",
+      "avatar": "https://www.futuroprossimo.it/wp-content/uploads/2023/05/Melancia_Tommy_Shelby_from_peaky.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Pudge",
+      "password": "Pudge",
+      "fullName": "Pudge Pag",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLfrCen1PUKI3Bk7G1Wa6gP1w-rSeBPrH58A&s"
+    }
+  ]
+}
